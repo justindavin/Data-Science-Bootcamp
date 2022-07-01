@@ -1,1 +1,2 @@
 # Data-Science-Machine-Learning-Bootcamp
+This course was taught on Udemy by Jose Portilla. This course teaches everything from the basic libraries such as Pandas, NumPy, Matplotlib, as well as machine learning libraries such as Scikit-learn (Linear and Logistic Regression, K Nearest Neighbors, Tree Methods, K Means Clustering, Support Vector Machines) and Tensorflow (Perceptron Model, Neural Networks, Activation Functions, Cost Function, Backpropagation, Regression and Classification).
